@@ -1,0 +1,15 @@
+.bg-form {
+    background-color: lightgray;
+}
+
+#input-error {
+    display: none;
+}
+
+#expenses-error {
+    display: none;
+}
+
+#saving-error {
+    display: none;
+}
